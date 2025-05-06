@@ -1,15 +1,6 @@
 {
-  "originHash" : "81e10eeca12d0376880ed9b673db9503a3e6c3ab4ed87f8c74447e2deca19514",
+  "originHash" : "f68b6da0f884f89dee5a71c5febc802966856126ad342d491f92b7eff84a81e0",
   "pins" : [
-    {
-      "identity" : "sfsymbolsfinder",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/abadikaka/SFSymbolsFinder",
-      "state" : {
-        "revision" : "955b818250237756389a9e27d163142e983e77f3",
-        "version" : "5.0.0"
-      }
-    },
     {
       "identity" : "smile",
       "kind" : "remoteSourceControl",
