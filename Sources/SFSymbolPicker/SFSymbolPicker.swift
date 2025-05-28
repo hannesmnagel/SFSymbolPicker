@@ -80,7 +80,7 @@ extension ImageView where Content == Image {
 }
 
 
-@available(iOS 17.0, *)
+@available(iOS 17.0, watchOS 10.0, macOS 13.0, *)
 #Preview {
     @Previewable @State var selectedSymbol: String = "star.fill"
     SymbolPicker(symbol: $selectedSymbol)
